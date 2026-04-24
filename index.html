@@ -1,54 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smart Living Tips - Content Management Platform</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #333; line-height: 1.6; }
-        .hero { background: linear-gradient(135deg, #E8734A 0%, #D4603B 50%, #C4513A 100%); color: white; padding: 80px 20px; text-align: center; }
-        .hero h1 { font-size: 2.5rem; margin-bottom: 16px; }
-        .hero p { font-size: 1.2rem; opacity: 0.9; max-width: 600px; margin: 0 auto; }
-        .features { max-width: 900px; margin: 60px auto; padding: 0 20px; }
-        .features h2 { text-align: center; font-size: 1.8rem; margin-bottom: 40px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; }
-        .card { background: #f9f9f9; border-radius: 12px; padding: 30px; text-align: center; }
-        .card h3 { color: #E8734A; margin-bottom: 10px; }
-        .about { background: #fafafa; padding: 60px 20px; text-align: center; }
-        .about p { max-width: 700px; margin: 0 auto; font-size: 1.1rem; }
-        footer { background: #333; color: #aaa; padding: 30px 20px; text-align: center; }
-        footer a { color: #E8734A; text-decoration: none; }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Smart Living Tips Content Manager helps plan, create, schedule, and measure original Pinterest content for Smart Living Tips guides.">
+  <title>Smart Living Tips Content Manager</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="hero">
-        <h1>Smart Living Tips</h1>
-        <p>A content management platform that helps creators plan, schedule, and publish optimized content for better engagement and reach.</p>
-    </div>
-    <div class="features">
-        <h2>What We Do</h2>
-        <div class="grid">
-            <div class="card">
-                <h3>Smart Scheduling</h3>
-                <p>Publish content at optimal times based on audience engagement patterns for maximum visibility.</p>
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="index.html"><img src="assets/logo.png" alt="">Smart Living Tips</a>
+      <div class="nav-links">
+        <a href="#platform">Platform</a>
+        <a href="guides.html">Guides</a>
+        <a href="affiliate-disclosure.html">Affiliate Disclosure</a>
+        <a href="privacy.html">Privacy</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <h1>Smart Living Tips Content Manager</h1>
+        <p>An AI-assisted content management workflow for planning, creating, scheduling, and measuring original Pinterest Pins that point to Smart Living Tips guides.</p>
+        <p><a class="button" href="guides.html">View public guides</a> <a class="button secondary" href="privacy.html">Privacy policy</a></p>
+      </div>
+      <div class="hero-media">
+        <img src="assets/home-decor-pin.png" alt="Organized home inspiration with warm neutral styling">
+      </div>
+    </section>
+
+    <section id="platform" class="section">
+      <div class="section-inner">
+        <h2>What The Platform Does</h2>
+        <p class="section-lede">The app is used by the Smart Living Tips owner to manage owned Pinterest content. It does not scrape Pinterest, does not mass-save third-party Pins, and does not publish deceptive or unrelated links.</p>
+        <div class="guide-grid">
+          <article class="guide-card">
+            <div>
+              <h3>Original Pin Creation</h3>
+              <p>Creates vertical images, titles, descriptions, alt text, and board assignments for owned editorial guides.</p>
             </div>
-            <div class="card">
-                <h3>AI-Powered Content</h3>
-                <p>Generate SEO-optimized descriptions, titles, and hashtags using advanced AI models.</p>
+          </article>
+          <article class="guide-card">
+            <div>
+              <h3>User-Approved Scheduling</h3>
+              <p>Queues content with conservative daily limits so publishing is intentional, reviewable, and tied to owned boards.</p>
             </div>
-            <div class="card">
-                <h3>Analytics & Growth</h3>
-                <p>Track performance metrics and continuously improve content strategy for sustainable growth.</p>
+          </article>
+          <article class="guide-card">
+            <div>
+              <h3>Pinterest API Integration</h3>
+              <p>Uses OAuth to connect the business account, read boards, create Pins, and sync performance data.</p>
             </div>
+          </article>
+          <article class="guide-card">
+            <div>
+              <h3>Transparent Monetization</h3>
+              <p>Public guides include disclosure pages and clearly separated ad placements before affiliate or display ads are added.</p>
+            </div>
+          </article>
         </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-inner">
+        <h2>Featured Smart Living Guides</h2>
+        <p class="section-lede">These public guide pages are the destination for Pins. They provide useful content first, with commercial disclosures visible when monetization is added.</p>
+        <div class="guide-grid">
+          <article class="guide-card">
+            <img src="assets/ai-tools-pin.jpg" alt="AI tools and productivity guide">
+            <div>
+              <h3>AI Productivity Tools</h3>
+              <p>How to pick tools that actually save time instead of adding another app.</p>
+              <a class="button" href="guides.html#ai-tools">Read guide</a>
+            </div>
+          </article>
+          <article class="guide-card">
+            <img src="assets/meal-prep-pin.png" alt="Healthy meal prep guide">
+            <div>
+              <h3>Healthy Meal Prep</h3>
+              <p>A practical weekly prep system for lunches, dinners, snacks, and smoothies.</p>
+              <a class="button" href="guides.html#meal-prep">Read guide</a>
+            </div>
+          </article>
+          <article class="guide-card">
+            <img src="assets/home-decor-pin.png" alt="Small space home organization guide">
+            <div>
+              <h3>Small Space Organization</h3>
+              <p>Room-by-room storage decisions that make a small home easier to maintain.</p>
+              <a class="button" href="guides.html#home-organization">Read guide</a>
+            </div>
+          </article>
+          <article class="guide-card">
+            <img src="assets/money-saving-pin.png" alt="Budgeting and money saving guide">
+            <div>
+              <h3>Budgeting Basics</h3>
+              <p>Simple budget systems, sinking funds, and money-saving routines.</p>
+              <a class="button" href="guides.html#budgeting">Read guide</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-inner content-layout">
+        <div>
+          <h2>Monetization Disclosure</h2>
+          <p class="section-lede">Smart Living Tips may use affiliate links, display ads, sponsored placements, or digital resources in the future. Commercial links are disclosed clearly and do not change the editorial checklist.</p>
+          <p><a class="button secondary" href="affiliate-disclosure.html">Read affiliate disclosure</a></p>
+        </div>
+        <aside class="ad-slot" aria-label="Advertisement">Display ad slot ready after ad network approval</aside>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span>&copy; 2026 Smart Living Tips</span>
+      <span><a href="guides.html">Guides</a> | <a href="affiliate-disclosure.html">Affiliate Disclosure</a> | <a href="privacy.html">Privacy Policy</a></span>
     </div>
-    <div class="about">
-        <h2>About</h2>
-        <p>Smart Living Tips is a content management tool built for creators who want to grow their audience with high-quality, consistent content. We focus on lifestyle, productivity, wellness, and personal finance niches.</p>
-    </div>
-    <footer>
-        <p>&copy; 2026 Smart Living Tips. All rights reserved. | <a href="privacy.html">Privacy Policy</a></p>
-    </footer>
+  </footer>
 </body>
 </html>
