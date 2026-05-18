@@ -220,6 +220,130 @@ img {
   padding: 16px 18px;
 }
 
+.affiliate-offer {
+  background: #f0fdfa;
+  border: 1px solid #99f6e4;
+  border-radius: 8px;
+  margin: 24px 0;
+  padding: 18px;
+}
+
+.affiliate-offer h3 {
+  margin-top: 0;
+}
+
+.affiliate-offer p {
+  margin-bottom: 12px;
+}
+
+.affiliate-offer small {
+  color: var(--muted);
+  display: block;
+  margin-top: 10px;
+}
+
+.conversion-strip {
+  align-items: center;
+  background: var(--soft);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: space-between;
+  margin: 20px 0 24px;
+  padding: 14px;
+}
+
+.quiz-panel,
+.result-box,
+.checklist-card,
+.product-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+}
+
+.quiz-panel {
+  display: grid;
+  gap: 18px;
+  padding: 20px;
+}
+
+.quiz-panel fieldset {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  margin: 0;
+  padding: 16px;
+}
+
+.quiz-panel legend {
+  font-weight: 800;
+  padding: 0 6px;
+}
+
+.quiz-panel label {
+  display: block;
+  margin: 10px 0;
+}
+
+.email-lite {
+  background: var(--soft);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.email-lite input {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  display: block;
+  font: inherit;
+  margin-top: 8px;
+  max-width: 420px;
+  padding: 10px;
+  width: 100%;
+}
+
+.email-lite p,
+.product-card span {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 8px 0 0;
+}
+
+.result-box {
+  margin-top: 24px;
+  padding: 20px;
+}
+
+.checklist-grid,
+.product-grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.checklist-card,
+.product-card {
+  padding: 18px;
+}
+
+.checklist-card h2,
+.product-card h3 {
+  margin-top: 0;
+}
+
+.product-card {
+  background: var(--soft);
+}
+
+.offer-note {
+  border-top: 1px solid var(--line);
+  margin-top: 34px;
+  padding-top: 30px;
+}
+
 .ad-slot {
   align-items: center;
   background: repeating-linear-gradient(45deg, #f8fafc, #f8fafc 10px, #eef2f7 10px, #eef2f7 20px);

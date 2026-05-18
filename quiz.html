@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Take a quick Smart Living Tips quiz and get a practical guide, checklist, or recommendation path.">
+  <title>Smart Living Tips Quiz</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="index.html"><img src="assets/logo.png" alt="">Smart Living Tips</a>
+      <div class="nav-links">
+        <a href="guides.html">Guides</a>
+        <a href="lead-magnets.html">Checklists</a>
+        <a href="shop.html">Favorites</a>
+        <a href="affiliate-disclosure.html">Disclosure</a>
+        <a href="privacy.html">Privacy</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="section">
+    <div class="section-inner content-layout">
+      <article class="article">
+        <h1>Find Your Best Smart Living Starting Point</h1>
+        <p class="section-lede">Answer three questions. The result sends readers to a guide, checklist, or recommendation page that matches their current intent.</p>
+
+        <form id="quiz" class="quiz-panel">
+          <fieldset>
+            <legend>What feels most urgent this week?</legend>
+            <label><input type="radio" name="goal" value="home" required> Make my home easier to manage</label>
+            <label><input type="radio" name="goal" value="meal"> Stop guessing what to eat</label>
+            <label><input type="radio" name="goal" value="money"> Get spending under control</label>
+            <label><input type="radio" name="goal" value="business"> Start or improve an online income experiment</label>
+            <label><input type="radio" name="goal" value="beauty"> Simplify my skincare or daily routine</label>
+          </fieldset>
+
+          <fieldset>
+            <legend>What do you want from the next page?</legend>
+            <label><input type="radio" name="format" value="checklist" required> A checklist I can use today</label>
+            <label><input type="radio" name="format" value="guide"> A full guide with context</label>
+            <label><input type="radio" name="format" value="favorites"> A product/tool shortlist</label>
+          </fieldset>
+
+          <fieldset>
+            <legend>How much time do you have?</legend>
+            <label><input type="radio" name="time" value="quick" required> 10 minutes</label>
+            <label><input type="radio" name="time" value="weekend"> One focused weekend</label>
+            <label><input type="radio" name="time" value="system"> I want a repeatable system</label>
+          </fieldset>
+
+          <div class="email-lite">
+            <label for="email">Optional: email this result to yourself later</label>
+            <input id="email" name="email" type="email" placeholder="you@example.com">
+            <p>This page does not transmit your email yet. It stores the intent locally until an email service is connected.</p>
+          </div>
+
+          <button class="button" type="submit">Show my recommendation</button>
+        </form>
+
+        <section id="result" class="result-box" hidden>
+          <h2>Your Recommendation</h2>
+          <p id="result-copy"></p>
+          <p><a id="result-link" class="button" href="guides.html">Open recommendation</a></p>
+        </section>
+      </article>
+
+      <aside class="sidebar">
+        <div class="side-box">
+          <h3>Why This Exists</h3>
+          <p>Pinterest traffic converts better when the page matches the reader's intent. This quiz routes broad curiosity into focused guide, checklist, or product-research pages.</p>
+        </div>
+        <div class="ad-slot" aria-label="Advertisement">Quiz sidebar ad slot ready after approval</div>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span>&copy; 2026 Smart Living Tips</span>
+      <span><a href="index.html">Home</a> | <a href="guides.html">Guides</a> | <a href="lead-magnets.html">Checklists</a> | <a href="shop.html">Favorites</a> | <a href="affiliate-disclosure.html">Affiliate Disclosure</a></span>
+    </div>
+  </footer>
+
+  <script>
+    const routes = {
+      home: {
+        guide: ["Small-space organization guide", "guides.html#home-organization"],
+        checklist: ["Home reset checklist", "lead-magnets.html#home-reset"],
+        favorites: ["Home setup favorites", "shop.html#home"]
+      },
+      meal: {
+        guide: ["Healthy meal prep guide", "guides.html#meal-prep"],
+        checklist: ["Meal prep checklist", "lead-magnets.html#meal-prep"],
+        favorites: ["Kitchen setup favorites", "shop.html#kitchen"]
+      },
+      money: {
+        guide: ["Budgeting basics guide", "guides.html#budgeting"],
+        checklist: ["Budget reset checklist", "lead-magnets.html#budget"],
+        favorites: ["Budgeting tool favorites", "shop.html#money"]
+      },
+      business: {
+        guide: ["Side-hustle guide", "guides.html#side-hustles"],
+        checklist: ["Side-hustle checklist", "lead-magnets.html#side-hustle"],
+        favorites: ["Online business tool favorites", "shop.html#business"]
+      },
+      beauty: {
+        guide: ["Skincare and routine guides", "guides.html#skincare"],
+        checklist: ["Daily routine checklist", "lead-magnets.html#routine"],
+        favorites: ["Simple routine favorites", "shop.html#beauty"]
+      }
+    };
+
+    document.getElementById("quiz").addEventListener("submit", (event) => {
+      event.preventDefault();
+      const data = new FormData(event.currentTarget);
+      const goal = data.get("goal");
+      const format = data.get("format");
+      const email = String(data.get("email") || "").trim();
+      const route = routes[goal][format] || routes[goal].guide;
+      const url = `${route[1]}?utm_source=quiz&utm_medium=owned&utm_campaign=${encodeURIComponent(goal)}`;
+
+      if (email) {
+        localStorage.setItem("smartLivingLeadIntent", JSON.stringify({
+          email,
+          goal,
+          format,
+          createdAt: new Date().toISOString()
+        }));
+      }
+
+      document.getElementById("result-copy").textContent = `Start with: ${route[0]}. This is the highest-match page for your current answer.`;
+      document.getElementById("result-link").href = url;
+      document.getElementById("result-link").textContent = `Open ${route[0]}`;
+      document.getElementById("result").hidden = false;
+      document.getElementById("result").scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  </script>
+</body>
+</html>
