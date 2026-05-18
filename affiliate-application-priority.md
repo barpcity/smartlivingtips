@@ -1,22 +1,27 @@
 # Affiliate Application Priority
 
-Updated for the product-focused Pinterest funnel.
+Updated for the product-focused Pinterest funnel and UK company onboarding.
+
+## Business Country
+
+Use the UK company as the main publisher/legal entity. If a form asks for business country, legal entity, tax, payout, or company address, use the UK company information from the owner-provided documents. Do not default to Turkey for affiliate onboarding.
 
 ## Apply First
 
-### 1. Admitad
+### 1. Awin UK
 
-- Apply: `https://store.admitad.com/`
-- Why now: Turkey-compatible advertiser page exists, and it can cover ecommerce, marketplaces, beauty, home, travel, and lifestyle.
-- Use website: `https://barpcity.github.io/smartlivingtips/`
-- Use category proof: `https://barpcity.github.io/smartlivingtips/shop.html`
-
-### 2. Awin
-
-- Apply: `https://www.awin.com/publishers`
-- Why now: global publisher network with retail, beauty, technology, department-store, and lifestyle categories.
+- Apply: `https://www.awin.com/gb`
+- Why now: UK-first retail network fit. Awin UK lists retail and shopping categories including FMCG, department stores, fashion, beauty, and technology.
 - Use website: `https://barpcity.github.io/smartlivingtips/`
 - Use category proof: `https://barpcity.github.io/smartlivingtips/shop.html#small-space-storage`
+
+### 2. Skimlinks
+
+- Apply: `https://skimlinks.com/publishers/`
+- Why now: commerce-content monetization for many merchants; strong US/UK publisher positioning.
+- Use website: `https://barpcity.github.io/smartlivingtips/`
+- Use category proof: `https://barpcity.github.io/smartlivingtips/shop.html`
+- Risk: approval bar is higher; use the product-find page, disclosure, privacy, about, and contact pages as proof.
 
 ### 3. Sovrn Commerce
 
@@ -24,25 +29,32 @@ Updated for the product-focused Pinterest funnel.
 - Why now: product-link monetization across many merchants can work before individual retailer approvals.
 - Use category proof: `https://barpcity.github.io/smartlivingtips/shop.html#kitchen-prep-tools`
 
-### 4. Skimlinks
-
-- Apply: `https://skimlinks.com/publishers/`
-- Why now: approved publishers can monetize many merchant programs without applying to each one manually.
-- Risk: approval bar is higher; use the product-find page and disclosure pages as proof.
-
-## Apply Second
-
-### 5. Impact
+### 4. Impact
 
 - Apply: `https://app.impact.com/advertiser-publisher-signup/publisher-signup-flow.ihtml`
 - Best for: software, retail, beauty, ecommerce, tech, productivity.
 
+## Apply Second
+
+### 5. CJ UK
+
+- Apply: `https://signup.cj.com/member/signup/publisher/`
+- UK source: `https://www.cj.com/en-gb/publisher`
+- Current status: onboarding partially completed.
+- Continue when owner can provide UK administrator phone, company/legal/tax, and payout details.
+
 ### 6. Rakuten Advertising
 
-- Apply: `https://rakutenadvertising.com/affiliate/`
+- Apply: `https://rakutenadvertising.com/publishers/`
 - Best for: global retail, fashion, beauty, home, and product roundups.
 
-### 7. PartnerStack
+### 7. Amazon Associates UK
+
+- Apply: `https://affiliate-program.amazon.co.uk/`
+- Best for: home, kitchen, beauty, useful gadgets, and product roundups.
+- Apply after core commerce networks or after the product pages have more substance.
+
+### 8. PartnerStack
 
 - Apply: `https://dash.partnerstack.com/handshake`
 - Best for: AI tools, SaaS, creator tools, recurring commissions.
@@ -54,19 +66,14 @@ Updated for the product-focused Pinterest funnel.
 - Current status: application submitted and under review.
 - Use after approval for side-hustle, freelancer, logo, website, content, and AI-service pages.
 
-### CJ
-
-- Current status: onboarding partially completed.
-- Continue only when owner can provide administrator phone, legal/tax, and payout details.
-
-### Amazon Associates
-
-- Category fit is strong, but country/program fit should be verified before relying on it.
-- Do not make Amazon the first monetization dependency.
-
 ### Hostinger
 
 - Keep as a secondary side-hustle/website channel, not the main Pinterest money path.
+
+### Admitad
+
+- Keep as a secondary marketplace/global option.
+- Do not prioritize it ahead of UK-first networks now that the main legal entity is UK.
 
 ## Application Copy
 

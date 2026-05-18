@@ -1,6 +1,10 @@
 # Affiliate Application Pack
 
-Use this pack when filling CJ, Fiverr, Admitad, Awin, Sovrn Commerce, Skimlinks, Impact, Rakuten Advertising, PartnerStack, Amazon Associates, Hostinger, Digistore24, and AdSense forms.
+Use this pack when filling Awin UK, Skimlinks, Sovrn Commerce, Impact, CJ UK, Rakuten Advertising, Amazon Associates UK, Fiverr, PartnerStack, Admitad, Hostinger, Digistore24, and AdSense forms.
+
+## Business Country / Legal Entity
+
+Use the UK company as the main publisher/legal entity. If a form asks for business country, legal name, company address, tax, payout, or company registration details, use the owner-provided UK company documents. Do not default affiliate applications to Turkey.
 
 ## Public URLs
 
@@ -63,11 +67,46 @@ These cannot be completed safely by automation:
 
 ## Program-Specific Notes
 
-### ClickBank
+### Awin UK
 
-Do not use for this account right now. Turkey was not available in the signup flow, so do not use VPNs, fake country data, or borrowed identities. Re-check only if ClickBank later adds Turkey support.
+Use for retail, home, beauty, fashion, technology, FMCG, and department-store style offers. Strong fit for the product-find hub:
 
-### CJ
+- `https://barpcity.github.io/smartlivingtips/shop.html#small-space-storage`
+- `https://barpcity.github.io/smartlivingtips/shop.html#kitchen-prep-tools`
+- `https://barpcity.github.io/smartlivingtips/shop.html#skincare-starter-kit`
+- `https://barpcity.github.io/smartlivingtips/shop.html#budget-friendly-tech`
+
+Recommended application positioning:
+
+```text
+Smart Living Tips publishes commerce-friendly buying filters for home storage, kitchen prep, skincare, useful gadgets, and budget tools. Pinterest traffic is routed to owned guide pages first, with affiliate disclosures visible before commercial links are added.
+```
+
+### Skimlinks
+
+Use for commerce-content monetization across many merchant programs. Approval may be stricter, so use the live product-find hub and guide pages as the proof of editorial quality.
+
+Recommended application positioning:
+
+```text
+Smart Living Tips is an editorial commerce site with practical product-find pages for home, kitchen, beauty, gadgets, and budgeting. The site avoids coupon spam, fake reviews, and unsupported claims.
+```
+
+### Sovrn Commerce
+
+Use for broad product-link monetization and fallback merchant coverage. Verify that each merchant link is monetizing before publishing it.
+
+Recommended application positioning:
+
+```text
+Smart Living Tips creates evergreen buying-guide content. We want to monetize product mentions on owned pages while keeping Pinterest Pins guide-first and avoiding direct repetitive affiliate links.
+```
+
+### Impact
+
+Use for software, hosting, design, ecommerce, retail, beauty, tech, and productivity programs. Apply to individual brands only after the Impact publisher account is accepted.
+
+### CJ UK
 
 Current state: onboarding shows 2 of 9 completed. Email validation and Network Profile are complete.
 
@@ -81,32 +120,21 @@ Next owner-only fields:
 
 Use the general site description and promotion method above. Do not submit final activation until the owner confirms all legal, tax, and payout information is accurate.
 
-### Amazon Associates
+### Rakuten Advertising
 
-Best category fit is home organization, kitchen, meal prep, beauty, and simple product roundups. Current decision: do not rely on it first until country/program fit and early traffic are verified. Add product links to guide pages only after approval and keep the Amazon disclosure visible.
+Use for global retail, fashion, beauty, home, and product roundups. Apply after Awin/Skimlinks/Sovrn unless a specific high-fit UK retailer is available.
 
-### Impact
+### Amazon Associates UK
 
-Use for software, hosting, design, ecommerce, and retail programs. Apply to individual brands only after the Impact publisher account is accepted.
+Best category fit is home organization, kitchen, meal prep, beauty, useful gadgets, and simple product roundups. Use Amazon UK if applying with UK company details and UK-focused product links. Add product links to guide pages only after approval and keep the Amazon disclosure visible.
 
-### Awin
+### ClickBank
 
-Use for retail, home, beauty, fashion, technology, and department-store style offers. Strong fit for the product-find hub:
-
-- `https://barpcity.github.io/smartlivingtips/shop.html#small-space-storage`
-- `https://barpcity.github.io/smartlivingtips/shop.html#kitchen-prep-tools`
-- `https://barpcity.github.io/smartlivingtips/shop.html#skincare-starter-kit`
-- `https://barpcity.github.io/smartlivingtips/shop.html#budget-friendly-tech`
-
-Recommended application positioning:
-
-```text
-Smart Living Tips publishes commerce-friendly buying filters for home storage, kitchen prep, skincare, useful gadgets, and budget tools. Pinterest traffic is routed to owned guide pages first, with affiliate disclosures visible before commercial links are added.
-```
+Do not prioritize for this project. The main strategy is UK retail/commerce networks, not ClickBank.
 
 ### Admitad
 
-Use for Turkey-compatible ecommerce, marketplaces, beauty, home, travel, and lifestyle offers. Prioritize offers with clean landing pages, normal pricing, and no aggressive health/income claims.
+Keep as a secondary global/marketplace option. Do not prioritize it ahead of UK-first networks now that the main legal entity is UK. Prioritize offers with clean landing pages, normal pricing, and no aggressive health/income claims.
 
 Recommended application positioning:
 
@@ -114,33 +142,9 @@ Recommended application positioning:
 The site targets practical consumer topics with Pinterest traffic and guide-first product recommendations. We are looking for ecommerce and lifestyle programs that match home organization, kitchen prep, skincare, useful gadgets, and budgeting content.
 ```
 
-### Sovrn Commerce
-
-Use for broad product-link monetization and fallback merchant coverage. Verify that each merchant link is monetizing before publishing it.
-
-Recommended application positioning:
-
-```text
-Smart Living Tips creates evergreen buying-guide content. We want to monetize product mentions on owned pages while keeping Pinterest Pins guide-first and avoiding direct repetitive affiliate links.
-```
-
-### Skimlinks
-
-Use for commerce-content monetization across many merchant programs. Approval may be stricter, so use the live product-find hub and guide pages as the proof of editorial quality.
-
-Recommended application positioning:
-
-```text
-Smart Living Tips is an editorial commerce site with practical product-find pages for home, kitchen, beauty, gadgets, and budgeting. The site avoids coupon spam, fake reviews, and unsupported claims.
-```
-
-### Rakuten Advertising
-
-Use for global retail, fashion, beauty, home, and product roundups. Apply after Awin/Admitad/Sovrn unless a specific high-fit retailer is available.
-
 ### Fiverr
 
-Use for side hustle, online business, logo, website, freelancer, content, and AI/service outsourcing guides. Turkey appears supported in the signup flow.
+Use for side hustle, online business, logo, website, freelancer, content, and AI/service outsourcing guides.
 
 Current state as of 2026-05-18: Fiverr Affiliate application has been submitted and the thank-you page says the application is under review. Fiverr says review usually takes 2-4 business days and an email notification will be sent after approval or if more information is needed.
 
