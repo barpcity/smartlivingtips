@@ -1,0 +1,171 @@
+# Affiliate Application Pack
+
+Use this pack when filling CJ, Fiverr, Admitad, Awin, Sovrn Commerce, Skimlinks, Impact, Rakuten Advertising, PartnerStack, Amazon Associates, Hostinger, Digistore24, and AdSense forms.
+
+## Public URLs
+
+- Website: `https://barpcity.github.io/smartlivingtips/`
+- Guides: `https://barpcity.github.io/smartlivingtips/guides.html`
+- About: `https://barpcity.github.io/smartlivingtips/about.html`
+- Contact: `https://barpcity.github.io/smartlivingtips/contact.html`
+- Privacy: `https://barpcity.github.io/smartlivingtips/privacy.html`
+- Affiliate disclosure: `https://barpcity.github.io/smartlivingtips/affiliate-disclosure.html`
+
+## Site Description
+
+```text
+Smart Living Tips is a practical guide site covering home organization, kitchen and meal prep, skincare, useful gadgets, budgeting, AI productivity, and beginner side hustles. The site publishes original editorial guides and product-find pages that help Pinterest readers compare what to buy, what to avoid, and what to check before purchasing.
+```
+
+## Promotion Method
+
+```text
+Traffic comes primarily from original Pinterest Pins published to owned boards. Pins link to Smart Living Tips guide pages first, where readers get useful context before any affiliate recommendation. Publishing is owner-approved, scheduled with conservative daily limits, and tied to relevant topics and boards.
+```
+
+## Compliance And Disclosure
+
+```text
+Commercial links are disclosed clearly on the guide pages and, when direct affiliate Pins are used, in the Pin description. We do not use coupon spam, fake reviews, trademark bidding, unsupported health/income claims, deceptive redirects, unsupported link shorteners, incentivized saves/clicks, or mass-posted direct affiliate links.
+```
+
+## Audience
+
+```text
+Readers are consumers and creators looking for practical buying and lifestyle decisions: organizing small spaces, choosing kitchen prep tools, building simple skincare routines, comparing useful home gadgets, improving budgeting routines, testing beginner side hustles, and building simple daily systems.
+```
+
+## Best Categories To Select
+
+- Lifestyle
+- Home and garden
+- Food and meal planning
+- Retail and ecommerce
+- Shopping guides
+- Personal finance
+- Business and entrepreneurship
+- Software and productivity
+- Beauty and personal care
+- Self improvement
+
+## Manual Information Needed From Owner
+
+These cannot be completed safely by automation:
+
+- Legal name or business name.
+- Business address and phone number.
+- Tax form details.
+- Payment method: PayPal, Stripe, Payoneer, or bank account.
+- Date of birth or age confirmation where required.
+- Pinterest profile URL.
+- Any required identity verification.
+- Agreement to each program's terms.
+
+## Program-Specific Notes
+
+### ClickBank
+
+Do not use for this account right now. Turkey was not available in the signup flow, so do not use VPNs, fake country data, or borrowed identities. Re-check only if ClickBank later adds Turkey support.
+
+### CJ
+
+Current state: onboarding shows 2 of 9 completed. Email validation and Network Profile are complete.
+
+Next owner-only fields:
+
+- Administrator phone number.
+- Legal name or company details.
+- Mailing address.
+- Tax form details.
+- Payment method.
+
+Use the general site description and promotion method above. Do not submit final activation until the owner confirms all legal, tax, and payout information is accurate.
+
+### Amazon Associates
+
+Best category fit is home organization, kitchen, meal prep, beauty, and simple product roundups. Current decision: do not rely on it first until country/program fit and early traffic are verified. Add product links to guide pages only after approval and keep the Amazon disclosure visible.
+
+### Impact
+
+Use for software, hosting, design, ecommerce, and retail programs. Apply to individual brands only after the Impact publisher account is accepted.
+
+### Awin
+
+Use for retail, home, beauty, fashion, technology, and department-store style offers. Strong fit for the product-find hub:
+
+- `https://barpcity.github.io/smartlivingtips/shop.html#small-space-storage`
+- `https://barpcity.github.io/smartlivingtips/shop.html#kitchen-prep-tools`
+- `https://barpcity.github.io/smartlivingtips/shop.html#skincare-starter-kit`
+- `https://barpcity.github.io/smartlivingtips/shop.html#budget-friendly-tech`
+
+Recommended application positioning:
+
+```text
+Smart Living Tips publishes commerce-friendly buying filters for home storage, kitchen prep, skincare, useful gadgets, and budget tools. Pinterest traffic is routed to owned guide pages first, with affiliate disclosures visible before commercial links are added.
+```
+
+### Admitad
+
+Use for Turkey-compatible ecommerce, marketplaces, beauty, home, travel, and lifestyle offers. Prioritize offers with clean landing pages, normal pricing, and no aggressive health/income claims.
+
+Recommended application positioning:
+
+```text
+The site targets practical consumer topics with Pinterest traffic and guide-first product recommendations. We are looking for ecommerce and lifestyle programs that match home organization, kitchen prep, skincare, useful gadgets, and budgeting content.
+```
+
+### Sovrn Commerce
+
+Use for broad product-link monetization and fallback merchant coverage. Verify that each merchant link is monetizing before publishing it.
+
+Recommended application positioning:
+
+```text
+Smart Living Tips creates evergreen buying-guide content. We want to monetize product mentions on owned pages while keeping Pinterest Pins guide-first and avoiding direct repetitive affiliate links.
+```
+
+### Skimlinks
+
+Use for commerce-content monetization across many merchant programs. Approval may be stricter, so use the live product-find hub and guide pages as the proof of editorial quality.
+
+Recommended application positioning:
+
+```text
+Smart Living Tips is an editorial commerce site with practical product-find pages for home, kitchen, beauty, gadgets, and budgeting. The site avoids coupon spam, fake reviews, and unsupported claims.
+```
+
+### Rakuten Advertising
+
+Use for global retail, fashion, beauty, home, and product roundups. Apply after Awin/Admitad/Sovrn unless a specific high-fit retailer is available.
+
+### Fiverr
+
+Use for side hustle, online business, logo, website, freelancer, content, and AI/service outsourcing guides. Turkey appears supported in the signup flow.
+
+Current state as of 2026-05-18: Fiverr Affiliate application has been submitted and the thank-you page says the application is under review. Fiverr says review usually takes 2-4 business days and an email notification will be sent after approval or if more information is needed.
+
+Submitted positioning:
+
+- Website/source: `https://barpcity.github.io/smartlivingtips/`
+- Promotion channels: content site, blog, Pinterest.
+- Audience interests: digital marketing, programming and tech, business, fun and lifestyle, AI services.
+- Main content type: B2C.
+- Promotion summary: original Smart Living Tips guides promoted via Pinterest, guide-page-first traffic, relevant Fiverr links inside articles with affiliate disclosure and no misleading claims.
+
+Next steps after approval:
+
+- Add real Fiverr affiliate links only to relevant guide/shop sections.
+- Do not direct-link repetitive Fiverr affiliate URLs from bulk Pins.
+- Keep Pin traffic guide-first unless a specific direct affiliate Pin is manually approved and disclosed.
+
+### PartnerStack
+
+Use for SaaS and recurring commission offers that match AI productivity and online business content.
+
+### Hostinger
+
+Apply after Smart Living Tips has visible traffic or a stronger hosting/website-building content cluster. Hostinger says the affiliate program is aimed at established websites, significant social audiences, or web/hosting-focused content.
+
+### AdSense
+
+Apply after more original guide content is added. Google requires original content, policy compliance, site ownership/source-code access, and an adult applicant.
