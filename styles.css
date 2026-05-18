@@ -116,6 +116,10 @@ img {
   padding: 76px 24px 54px;
 }
 
+.launch-hero h1 {
+  font-size: clamp(2.8rem, 5.6vw, 5.25rem);
+}
+
 .budget-hero h1 {
   font-size: clamp(3rem, 6vw, 5.8rem);
   line-height: 0.98;
@@ -362,6 +366,14 @@ img {
 .budget-sidebar {
   display: grid;
   gap: 18px;
+}
+
+.checklist-library {
+  background: var(--soft);
+}
+
+.checklist-library .checklist-card {
+  background: #fff;
 }
 
 .tool-offer,
