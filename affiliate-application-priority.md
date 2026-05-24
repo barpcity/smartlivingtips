@@ -12,22 +12,22 @@ Use the UK company as the main publisher/legal entity. If a form asks for busine
 
 - Apply: `https://www.awin.com/gb`
 - Why now: UK-first retail network fit. Awin UK lists retail and shopping categories including FMCG, department stores, fashion, beauty, and technology.
-- Use website: `https://barpcity.github.io/smartlivingtips/`
-- Use category proof: `https://barpcity.github.io/smartlivingtips/shop.html#small-space-storage`
+- Use website: `https://smartlivingtips.benai.ai/`
+- Use category proof: `https://smartlivingtips.benai.ai/shop.html#small-space-storage`
 
 ### 2. Skimlinks
 
 - Apply: `https://skimlinks.com/publishers/`
 - Why now: commerce-content monetization for many merchants; strong US/UK publisher positioning.
-- Use website: `https://barpcity.github.io/smartlivingtips/`
-- Use category proof: `https://barpcity.github.io/smartlivingtips/shop.html`
+- Use website: `https://smartlivingtips.benai.ai/`
+- Use category proof: `https://smartlivingtips.benai.ai/shop.html`
 - Risk: approval bar is higher; use the product-find page, disclosure, privacy, about, and contact pages as proof.
 
 ### 3. Sovrn Commerce
 
 - Apply: `https://www.sovrn.com/commerce-affiliate/`
 - Why now: product-link monetization across many merchants can work before individual retailer approvals.
-- Use category proof: `https://barpcity.github.io/smartlivingtips/shop.html#kitchen-prep-tools`
+- Use category proof: `https://smartlivingtips.benai.ai/shop.html#kitchen-prep-tools`
 
 ### 4. Impact
 

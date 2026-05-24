@@ -8,12 +8,12 @@ Use the UK company as the main publisher/legal entity. If a form asks for busine
 
 ## Public URLs
 
-- Website: `https://barpcity.github.io/smartlivingtips/`
-- Guides: `https://barpcity.github.io/smartlivingtips/guides.html`
-- About: `https://barpcity.github.io/smartlivingtips/about.html`
-- Contact: `https://barpcity.github.io/smartlivingtips/contact.html`
-- Privacy: `https://barpcity.github.io/smartlivingtips/privacy.html`
-- Affiliate disclosure: `https://barpcity.github.io/smartlivingtips/affiliate-disclosure.html`
+- Website: `https://smartlivingtips.benai.ai/`
+- Guides: `https://smartlivingtips.benai.ai/guides.html`
+- About: `https://smartlivingtips.benai.ai/about.html`
+- Contact: `https://smartlivingtips.benai.ai/contact.html`
+- Privacy: `https://smartlivingtips.benai.ai/privacy.html`
+- Affiliate disclosure: `https://smartlivingtips.benai.ai/affiliate-disclosure.html`
 
 ## Site Description
 
@@ -71,10 +71,10 @@ These cannot be completed safely by automation:
 
 Use for retail, home, beauty, fashion, technology, FMCG, and department-store style offers. Strong fit for the product-find hub:
 
-- `https://barpcity.github.io/smartlivingtips/shop.html#small-space-storage`
-- `https://barpcity.github.io/smartlivingtips/shop.html#kitchen-prep-tools`
-- `https://barpcity.github.io/smartlivingtips/shop.html#skincare-starter-kit`
-- `https://barpcity.github.io/smartlivingtips/shop.html#budget-friendly-tech`
+- `https://smartlivingtips.benai.ai/shop.html#small-space-storage`
+- `https://smartlivingtips.benai.ai/shop.html#kitchen-prep-tools`
+- `https://smartlivingtips.benai.ai/shop.html#skincare-starter-kit`
+- `https://smartlivingtips.benai.ai/shop.html#budget-friendly-tech`
 
 Recommended application positioning:
 
@@ -150,7 +150,7 @@ Current state as of 2026-05-18: Fiverr Affiliate application has been submitted 
 
 Submitted positioning:
 
-- Website/source: `https://barpcity.github.io/smartlivingtips/`
+- Website/source: `https://smartlivingtips.benai.ai/`
 - Promotion channels: content site, blog, Pinterest.
 - Audience interests: digital marketing, programming and tech, business, fun and lifestyle, AI services.
 - Main content type: B2C.
