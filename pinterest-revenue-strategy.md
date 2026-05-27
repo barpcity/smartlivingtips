@@ -27,9 +27,9 @@ Use Pinterest for discovery and intent capture. Monetization should happen throu
 
 Priority monetization routes:
 
-- Recurring SaaS affiliate programs for AI/productivity/business niches.
-- Digital courses/templates for business, finance, self-improvement.
-- Amazon/retail affiliate for home, beauty, meal prep, but only where search intent is specific.
+- Retail and commerce affiliate programs for tech gadgets, smart home, phone accessories, home, kitchen, beauty, and meal prep.
+- Digital courses/templates for business, finance, self-improvement, and creator workflows.
+- Amazon/retail affiliate for home, beauty, meal prep, and gadgets, but only where search intent is specific.
 - Owned guide pages or email capture for expensive/slow-converting products.
 
 ## Compliance Rules

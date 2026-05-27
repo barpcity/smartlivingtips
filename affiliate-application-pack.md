@@ -8,17 +8,31 @@ Use the UK company as the main publisher/legal entity. If a form asks for busine
 
 ## Public URLs
 
-- Website: `https://smartlivingtips.benai.ai/`
+- New canonical website after DNS: `https://smartlivingtips.benai.ai/`
+- BenAI fallback path before DNS: `https://benai.ai/smart-living-tips/index.html`
 - Guides: `https://smartlivingtips.benai.ai/guides.html`
 - About: `https://smartlivingtips.benai.ai/about.html`
 - Contact: `https://smartlivingtips.benai.ai/contact.html`
 - Privacy: `https://smartlivingtips.benai.ai/privacy.html`
 - Affiliate disclosure: `https://smartlivingtips.benai.ai/affiliate-disclosure.html`
 
+## 2026-05-24 Rejection Assessment
+
+Awin, Skimlinks, and Fiverr have now rejected or declined the current `barpcity.github.io/smartlivingtips` property. The exact scoring reasons were not disclosed, but the visible emails point to publisher-fit/site-suitability rather than a single missing form field.
+
+Do not keep applying with the current GitHub Pages property as-is. Before reapplication or reconsideration, strengthen the property with:
+
+- A branded custom domain instead of a GitHub Pages subpath.
+- Consumer-facing homepage copy, not API/content-manager copy.
+- More original product editorial pages with real buying filters, clear images, and category depth.
+- About, contact, privacy, disclosure, correction policy, and clear publisher/business identity.
+- Visible Pinterest profile/channel proof and a short explanation of traffic acquisition.
+- No unapproved affiliate scripts or links presented as active monetization.
+
 ## Site Description
 
 ```text
-Smart Living Tips is a practical guide site covering home organization, kitchen and meal prep, skincare, useful gadgets, budgeting, AI productivity, and beginner side hustles. The site publishes original editorial guides and product-find pages that help Pinterest readers compare what to buy, what to avoid, and what to check before purchasing.
+Smart Living Tips is a practical consumer buying-guide site covering useful tech, smart home, phone accessories, home organization, kitchen and meal prep, skincare, budgeting, and beginner creator tools. The site publishes original editorial guides and product-find pages that help Pinterest readers compare what to buy, what to avoid, and what to check before purchasing.
 ```
 
 ## Promotion Method
@@ -36,7 +50,7 @@ Commercial links are disclosed clearly on the guide pages and, when direct affil
 ## Audience
 
 ```text
-Readers are consumers and creators looking for practical buying and lifestyle decisions: organizing small spaces, choosing kitchen prep tools, building simple skincare routines, comparing useful home gadgets, improving budgeting routines, testing beginner side hustles, and building simple daily systems.
+Readers are consumers and creators looking for practical buying and lifestyle decisions: comparing useful tech, starting with smart home products, choosing phone and travel accessories, organizing small spaces, choosing kitchen prep tools, building simple skincare routines, improving budgeting routines, and building simple daily systems.
 ```
 
 ## Best Categories To Select
@@ -71,20 +85,24 @@ These cannot be completed safely by automation:
 
 Use for retail, home, beauty, fashion, technology, FMCG, and department-store style offers. Strong fit for the product-find hub:
 
+- `https://smartlivingtips.benai.ai/shop.html#tech-desk-setup`
+- `https://smartlivingtips.benai.ai/shop.html#smart-home-starters`
+- `https://smartlivingtips.benai.ai/shop.html#phone-travel-tech`
 - `https://smartlivingtips.benai.ai/shop.html#small-space-storage`
 - `https://smartlivingtips.benai.ai/shop.html#kitchen-prep-tools`
 - `https://smartlivingtips.benai.ai/shop.html#skincare-starter-kit`
-- `https://smartlivingtips.benai.ai/shop.html#budget-friendly-tech`
 
 Recommended application positioning:
 
 ```text
-Smart Living Tips publishes commerce-friendly buying filters for home storage, kitchen prep, skincare, useful gadgets, and budget tools. Pinterest traffic is routed to owned guide pages first, with affiliate disclosures visible before commercial links are added.
+Smart Living Tips publishes commerce-friendly buying filters for tech gadgets, smart home starters, phone accessories, home storage, kitchen prep, skincare, and budget tools. Pinterest traffic is routed to owned guide pages first, with affiliate disclosures visible before commercial links are added.
 ```
 
 ### Skimlinks
 
 Use for commerce-content monetization across many merchant programs. Approval may be stricter, so use the live product-find hub and guide pages as the proof of editorial quality.
+
+Current state as of 2026-05-21: rejected for `barpcity.github.io/smartlivingtips`. Skimlinks said the site is not currently suitable and does not meet publisher-site criteria required by represented merchants. Treat this as a site credibility/content-depth problem until proven otherwise.
 
 Recommended application positioning:
 
@@ -146,7 +164,7 @@ The site targets practical consumer topics with Pinterest traffic and guide-firs
 
 Use for side hustle, online business, logo, website, freelancer, content, and AI/service outsourcing guides.
 
-Current state as of 2026-05-18: Fiverr Affiliate application has been submitted and the thank-you page says the application is under review. Fiverr says review usually takes 2-4 business days and an email notification will be sent after approval or if more information is needed.
+Current state as of 2026-05-21: rejected. Fiverr said the application may not be the right fit for the program and invited additional context if available. Send additional context only after the site is rebuilt into a stronger publisher property.
 
 Submitted positioning:
 

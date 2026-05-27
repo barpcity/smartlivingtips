@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smartlivingtips.benai.ai/sitemap.xml
