@@ -16,6 +16,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://smartlivingtips.benai.ai/digital-products.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://smartlivingtips.benai.ai/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
